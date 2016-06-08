@@ -131,12 +131,6 @@
 ;;(setq org-mobile-directory "~/Dropbox/MobileOrg")
 
 ;;
-;; Org-Mode to MediaWiki
-;;
-;; (add-to-list 'load-path "~/.emacs.d/personal/site-lisp/orgmode-mediawiki")
-;; (require 'ox-mediawiki)
-
-;;
 ;; Org-Present
 ;;
 (add-hook 'org-present-mode-hook

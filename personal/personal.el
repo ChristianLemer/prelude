@@ -122,16 +122,6 @@
 (setq browse-url-browser-function 'browse-url-generic
       browse-url-generic-program "chrome")
 
-;;
-;; Remember The Milk Interface
-;;
-(add-to-list 'load-path "~/.emacs.d/personal/site-lisp/simple-rtm/lisp")
-(autoload 'simple-rtm-mode "simple-rtm" "Interactive mode for Remember The Milk" t)
-(eval-after-load 'simple-rtm
-  '(progn
-     (display-simple-rtm-tasks-mode t)))
-
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;
 ;; General Behaviour
