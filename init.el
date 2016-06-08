@@ -69,7 +69,7 @@ by Prelude.")
   "This directory houses packages that are not yet available in ELPA (or MELPA).")
 (defvar prelude-savefile-dir (expand-file-name "savefile" prelude-dir)
   "This folder stores all the automatically generated save/history-files.")
-(defvar prelude-modules-file (expand-file-name "prelude-modules.el" prelude-dir)
+(defvar prelude-modules-file (expand-file-name "prelude-modules.el" prelude-personal-dir)
   "This files contains a list of modules that will be loaded by Prelude.")
 
 (unless (file-exists-p prelude-savefile-dir)
