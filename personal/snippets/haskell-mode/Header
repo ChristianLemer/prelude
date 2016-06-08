@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: Header
+# key: head
+# binding: direct-keybinding
+# --
+------------------------------------------------------------
+--
+-- $1
+--
+-- Time-stamp: <>
+--
+-- Copyright (c) `(nth 5 (decode-time))` Christian Lemer - christian@lemer.be
+-- All rights reserved.
+--
+------------------------------------------------------------
+$0
