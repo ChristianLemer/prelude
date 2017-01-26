@@ -1,0 +1,252 @@
+Accoucheuse / sage femme
+Acupuncteur
+Agence d'intérimaires
+Agence de mannequins
+Agent / expert immobilier
+Agent/courtier en assurance
+Agent/représentant commercial / intermédiaire du commerce
+Agriculteur / cultivateur (utilisant les matières premières acquises par
+achat)
+Agriculteur / cultivateur (utilisant les matières premières produites dans
+l'exploitation)
+Aide-soignant
+Ambulant ou Forain
+Ambulant ou forain ( si activité exercé en ASBL - agriculteur vendant sa
+propre production sur les marchés)
+Aménagement extérieur / entrepreneur parcs et jardins
+Anesthésiste-réanimateur
+Apiculteur / abeilles / producteur de miel
+Architecte
+Architecte d'intérieur
+Ardoisier / couvreur / zingueur / toiture
+Artiste
+Assistant pharmaceutico-technique
+Astrologue
+Audicien
+Audiologue
+Avocat
+Bandagiste
+Banquier
+Batteur �  façon
+Boucher-Charcutier / viande
+Boulanger-pâtissier
+Bâtelier / marinier / bateau / capitaine / croisière
+Café-taverne / bar / débit de boissonsu
+Cardiologue
+Carreleur
+Carrossier
+Centre pour personnes handicapées (sauf si constitué en ASBL)
+Chambre d'hôtes et gîtes (avec prestation de services : fourniture de repas,
+déjeuners)
+Chambre d'hôtes et gîtes (sans prestation de services : fourniture de repas,
+petit-déjeuners)
+Chauffagiste
+Chiropracteur
+Chirurgien
+Cirque
+Coach
+Coach weignt watchers
+Coiffeur
+Colleur d'affiches
+Commerçant de détail
+Commerçant en gros
+Comptable (et stagiaire)
+Comptable-fiscaliste
+Concierge (qui offre ses services �  tout client potentiel)
+Concierge (qui offre ses services �  un seul client)
+Conférencier
+Conférencier si exercé par un titulaire de profession libérale
+Conseiller conjugual
+Conseiller en feng shui
+Conseiller fiscal
+Conseiller juridique / juriste
+Construction non-réglementée
+Consultant
+Consultant en management
+Couturier
+Crèche, gardienne d'enfants, acceuillante
+Créateur, sculpteur, peintresi vend ses propres créations �  caractère
+unique
+Cuisinier - Chef cuisinier
+Cuisiniste
+Cybercafé
+Dentiste
+Dentiste pour animaux avec diplôme de dentiste ou de vétérinaire
+Dentiste pour animaux sans diplôme de dentiste ou vétérinaire
+Dermatologue
+Disc jockey qui offre ses services �  tout client potentiel
+Disc jockey qui travaille pour une seule discothèque
+Distributeur de journaux si intermédiaire d'un organisateur unique (Belgique
+Diffusion)
+Distributeur de journaux, intermédiaire d'un organisateur unique
+Diététicien
+Doula
+Décorateur / design
+Détective / enquête
+Electricien
+Eleveur d'animaux
+Eleveur d'animaux destinés �  être abattus si les animaux ne proviennent pas
+de l'exploitation ou ne sont pas nourris par la production de cette
+exploitation
+Eleveur d'animaux destinés �  être abattus si les animaux sont nés dans
+l'exploitation agricole et nourris par la production de cette exploitation
+Enquêteur / sondage qui offre ses services �  toutes les agences de sondage
+Enquêteur / sondage qui travaille exclusivement pour une agence de sondage
+Entraineur / coach rémunéré directement par les élèves
+Entraineur / coach si travaille pour une salle de sport
+Entrepreneur de gros-oeuvre / maçonnerie
+Entrepreneur de pompes funèbres
+Entrepreneur général
+Ergothérapeute
+Esthéticien / Soins de beauté
+Etanchéité du bâtiment
+Expert en balistique pour le SPF justice
+Expert en balistique qui s'adresse au grand public
+Expert-automobile
+Expert-comptable
+Finition du bâtiment / peintre / tapissier
+Fleuriste
+Floriculteur
+Fournisseur d'implants
+Friterie
+Fruiticulteur
+Gastro-entérologue
+Graphiste
+Graphothérapeute
+Guide touristique
+Guide touristique si activité exercé via un office du tourisme ou ASBL ou
+autre organisme
+Guérisseur
+Gynécologue
+Généticien (humain)
+Géo biologiste
+Géomètre-expert
+Holding
+Homéopathe
+Horticulteur
+Huissier de justice
+Hypnothérapeute
+Hôtelier
+Illustrateur de livres
+Imagerie médicale
+Infirmier
+Infographiste
+Informatique
+Interprète : musicien, chanteur, acteur, danseur
+Jeux de hasard
+Joueur de poker
+Journaliste agréé
+Journaliste qui s'adresse au grand public
+Kinésiologue
+Kinésithérapeute
+Laborantin
+Laboratoire d'analyse et biotechnologie
+Location de voiture
+Logopède
+Magnétiseur
+Maison de repos
+Mannequin qui travaille pour plusieurs agences
+Mannequin qui travaille pour une seule agence
+Manucure / onglerie
+Maraîcher / maraicher / fruits et légumes
+Masseur
+Menuisier
+Meunier �  façon
+Médecin généraliste
+Médecin spécialiste
+Médiateur agréé
+Médiateur non-agréé
+Médium / voyant
+Naturopathe
+Neurologue
+Neuropsychiatre
+Notaire
+Nutritionniste
+Ophtalmologue
+Opticien
+Organisateur d'événements (réception, soirées diverses)
+Orthodontiste
+Orthoptiste
+Orthopédiste
+Orthésiste
+Ostéopathe
+Ostéopathe pour animaux avec diplôme d'ostéopathe ou vétérinaire
+Ostéopathe pour animaux sans diplôme d'ostéopathe ou de vétérinaire
+Paysagiste
+Pharmacien
+Pharmacien (en société + vente de produits non pharmaceutiques)
+Photographe
+photographe de presse agréé
+Photographe de presse si pas agréé
+Pilote / aviateur / avion / hélicoptère
+Plafonneur
+Plombier / sanitaire
+Podologue
+Poseur de chapes / chapiste
+Professeur de cuisine �  domicile
+Professeur dont les élèves ne sont pas ses clients directement
+Professeur dont les élèves sont ses clients directement
+Promoteur immobilier
+Prostituée
+Prothésiste
+Psychiatre
+Psychologue
+Psychomotricien avec diplôme de psychologue
+Psychomotricien sans diplôme de psychologue
+Psychothérapeute avec diplôme de psychiatre ou psychologue
+Psychothérapeute sans diplôme de psychiatre ou psychologue
+Pédiatre
+Pédicure
+Pépiniériste
+Radiesthésiste
+Rebouteux
+Recouvreur de dettes
+Reiki
+Restaurateur
+Restaurateur d'oeuvres d'art
+Réflexologie plantaire avec diplôme de médecin ou acupuncteur
+Réflexologie plantaire sans diplôme de médecin ou acupuncteur
+Réparateur / garagiste / mécanicien automobile/ voiture / motocycle
+Réparateur / garagiste / mécanicien poids lourds/tracteurs
+Réviseur d'entreprises
+Scrapbooking
+Secouriste-ambulancier
+Sexologue avec diplôme de psychiatre ou psychologue
+Sexologue sans diplôme de psychiatre ou psychologue
+Sophrologue avec diplôme de psychiatre ou psychologue
+Sophrologue sans diplôme de psychiatre ou psychologue
+Sourcier
+Sportif professionnel
+Sportif professionnel
+Styliste / créateur de vêtement / design
+Styliste / créateur de vêtement / design si offre ses services au grand
+public
+Sylviculture
+Tabacologue avec diplôme de médecin
+Tabacologue sans diplôme de médecin
+Tables d'hôtes
+Technologue de laboratoire médical
+Technologue en imagerie médicale
+Terrassier
+Thérapeute familial, de couple, de groupe,(avec diplôme de psychiatre ou
+psychologue)
+Thérapeute familial, de couple, de groupe,(sans diplôme de psychiatre ou
+psychologue)
+Titres-services
+Toilettage
+Traducteur juré - interprète
+Traducteur non juré - interprète
+Traitement toiture et façades
+traiteur - organisateur de banquets
+Transport de colis / marchandises / chauffeur routier
+Transport de patients
+Transport de personnes
+Urologue
+Vendeur de véhicules
+Vendeur �  domicile
+Vendeur-réparateur de cycles, vélos
+Vente par Internet
+Vidangeur fosses septiques
+Vétérinaire
+Webmaster
+Autres (précisez)

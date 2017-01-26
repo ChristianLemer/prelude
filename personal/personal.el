@@ -7,6 +7,13 @@
 ;;; Code:
 
 ;;
+;;
+;;
+(add-to-list 'load-path "~/.emacs.d/personal/site-lisp/benchmark-init-el")
+(require 'benchmark-init-loaddefs)
+(benchmark-init/activate)
+
+;;
 ;; Uses personal preludes-modules file
 ;;
 ;;(setq prelude-modules-file (expand-file-name "prelude-modules.el" prelude-personal-dir))
